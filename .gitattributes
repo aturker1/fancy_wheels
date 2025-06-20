@@ -4,3 +4,4 @@ flash_attn-2.7.4.post1-cp311-cp311-linux_x86_64_base.whl filter=lfs diff=lfs mer
 flash_attn-2.7.4.post1-cp311-cp311-linux_x86_64_torch_comp.whl filter=lfs diff=lfs merge=lfs -text
 flash_attn_3-3.0.0b1-cp39-abi3-linux_x86_64.whl filter=lfs diff=lfs merge=lfs -text
 flash_attn_3_torch2_6_0cu12_4_compilable-3.0.0b1-cp39-abi3-linux_x86_64.whl filter=lfs diff=lfs merge=lfs -text
+tensorrt_llm-0.12.0-cp311-cp311-linux_x86_64.whl filter=lfs diff=lfs merge=lfs -text
